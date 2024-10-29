@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Arghknob (Arnav)!
+- 👀 I’m interested in electronics, IoT, robotics, and software development.
+- 🌱 I’m currently learning advanced IoT applications and embedded systems as part of my B.Tech in Electronics and Telecommunications.
+- 💞️ I’m looking to collaborate on projects that involve IoT, robotics, automation, or creative tech solutions.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I was little, I made a popcorn maker as a science project, which started a fire at the science exhibition (Yikes!!).
